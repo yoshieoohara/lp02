@@ -265,8 +265,8 @@ li {
   background-image: url(../img/top-bubble.png);
   background-size: contain;
   background-repeat: no-repeat;
-  width: 24rem;
-  height: 4.125rem;
+  width: 25rem;
+  height: 3.75rem;
   margin: 0 auto;
 }
 
@@ -274,6 +274,7 @@ li {
   font-size: clamp(1rem, 0.929rem + 0.36vw, 1.25rem);
   font-weight: 700;
   color: #fff;
+  line-height: 1.5;
 }
 
 .cta-price__note p span {
@@ -285,6 +286,7 @@ li {
   align-items: center;
   justify-content: center;
   gap: 1.75rem;
+  margin-top: 0.45rem;
 }
 
 .cta-price__txt p {
@@ -716,6 +718,7 @@ li {
 
 .cta .cta-price__note p {
   font-size: 1rem;
+  line-height: 1.7;
 }
 
 .cta .cta-price__note p span {
